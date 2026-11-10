@@ -18,7 +18,7 @@ npm run build
 - `validation/`、个人文献导出、工作日志及凭据不得提交或打包。
 - 修改构建文件允许清单时检查源代码包，避免携带私人文件。
 - 发布时同步修改 `package.json` 与 `plugin/manifest.json` 版本，更新 CHANGELOG 与验证范围。
-- GitHub Release 同时提供 XPI、对应源码 ZIP 和 SHA256SUMS，保留 LICENSE、NOTICE 与上游署名。
+- GitHub 与 Gitee Release 同时提供相同的 XPI、对应源码 ZIP 和 SHA256SUMS，保留 LICENSE、NOTICE 与上游署名。
 
 当前采用手动 XPI 更新。启用自动更新前需要配置自己的 HTTPS 更新清单及发布流程，并验证 Zotero 的更新规则。
 

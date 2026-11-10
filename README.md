@@ -4,7 +4,7 @@
 
 ## 安装
 
-从 [Releases](https://github.com/liyanyi21/research-grid/releases/latest) 下载 `.xpi` 文件，在 Zotero 的“工具 → 插件”中点击齿轮，选择“Install Plugin From File…”。安装后无需卸载原版 LitMatrix。首次使用建议先选中一个分类。
+从 [Gitee 发行版（国内下载）](https://gitee.com/nianyu17/research-grid/releases) 或 [GitHub Releases](https://github.com/liyanyi21/research-grid/releases/latest) 下载 `.xpi` 文件，在 Zotero 的“工具 → 插件”中点击齿轮，选择“Install Plugin From File…”。Gitee 同时提供对应源码 ZIP 和 SHA256SUMS。安装后无需卸载原版 LitMatrix。首次使用建议先选中一个分类。
 
 已在 macOS / Zotero 11.0-beta.3 实测，其他声明版本仍需要兼容性验证。详细记录见 [VALIDATION.md](VALIDATION.md)。
 
